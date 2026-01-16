@@ -21,7 +21,7 @@ New files will be added **regularly** to cover Python from **basics to advanced 
 | `Strings.ipynb`                | Covers string creation, indexing, slicing, methods, and common string operations          |
 | `Conditional_Statements.ipynb` | Explains `if`, `elif`, `else` statements with examples and decision-making logic          |
 
-
+Practice sets are also uploaded here.
 ---
 
 ## 🚀 Upcoming Topics
