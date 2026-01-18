@@ -44,7 +44,7 @@ Practice sets are also uploaded on the basis of learning.
 To run the notebooks, make sure you have:
 
 * Python 3.x
-* Jupyter Notebook / JupyterLab
+* Jupyter Notebook 
 
 Install Jupyter using:
 
