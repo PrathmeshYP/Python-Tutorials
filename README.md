@@ -27,9 +27,9 @@ Practice sets are also uploaded on the basis of learning.
 
 ## 🚀 Upcoming Topics
 
+* Lists, Tuples, Sets, Dictionaries
 * Loops (for, while)
 * Functions
-* Lists, Tuples, Sets, Dictionaries
 * File Handling
 * Object-Oriented Programming (OOP)
 * Exception Handling
