@@ -14,12 +14,13 @@ New files will be added **regularly** to cover Python from **basics to advanced 
 
 ## 📂 Current Contents
 
-| Notebook Name                  | Description                                                                               |
-| ------------------------------ | ----------------------------------------------------------------------------------------- |
-| `Operators.ipynb`              | Covers all Python operators such as arithmetic, relational, logical, assignment, and more |
-| `Type_Conversion.ipynb`        | Explains type casting and conversion between different Python data types                  |
-| `Strings.ipynb`                | Covers string creation, indexing, slicing, methods, and common string operations          |
-| `Conditional_Statements.ipynb` | Explains `if`, `elif`, `else` statements with examples and decision-making logic          |
+| Notebook Name                   | Description                                                                               |
+| ------------------------------- | ----------------------------------------------------------------------------------------- |
+| `1_Operators.ipynb`             | Covers all Python operators such as arithmetic, relational, logical, assignment, and more |
+| `2_Type_Conversion.ipynb`       | Explains type casting and conversion between different Python data types                  |
+| `3_Strings.ipynb`               | Covers string creation, indexing, slicing, methods, and common string operations          |
+| `4_Conditional_Statements.ipynb`| Explains `if`, `elif`, `else` statements with examples and decision-making logic          |
+| `5_List.ipynb`                  | Explains list and all the methods of list                                                 |
 
 Practice sets are also uploaded on the basis of learning.
 
