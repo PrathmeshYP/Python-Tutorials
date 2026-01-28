@@ -24,6 +24,7 @@ New files will be added **regularly** to cover Python from **basics to advanced 
 | `6_Tuple.ipynb`                 | Explains tuple and all the methods of tuple                                               |
 | `7_Dictionary.ipynb`            | Explains dictionary and all the methods of dictionary                                     |
 | `8_Set.ipynb`                   | Explains set and all the methods of set                                                   |
+| `9_Loops.ipynb`                 | Explains loops and all the types of loops                                                 |
 
 Practice sets are also uploaded on the basis of learning.
 
