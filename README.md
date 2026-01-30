@@ -33,8 +33,6 @@ Practice sets are also uploaded on the basis of learning.
 
 ## 🚀 Upcoming Topics
 
-
-* Loops (for, while)
 * Functions
 * File Handling
 * Object-Oriented Programming (OOP)
