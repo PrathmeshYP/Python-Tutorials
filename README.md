@@ -26,6 +26,8 @@ New files will be added **regularly** to cover Python from **basics to advanced 
 | `8_Set.ipynb`                   | Explains set and all the methods of set                                                   |
 | `9_Loops.ipynb`                 | Explains loops and all the types of loops                                                 |
 | `10_Functions.ipynb`            | Explains function and all the types of functions                                          |
+| `11_Class_and_Object.ipynb`     | Explains class and objects using examples                                                 |
+
 
 Practice sets are also uploaded on the basis of learning.
 
