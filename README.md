@@ -36,7 +36,7 @@ Practice sets are also uploaded on the basis of learning.
 
 ## 🚀 Upcoming Topics
 
-* Object-Oriented Programming (OOP)
+* Polymorphism and Encapsulation
 * Exception Handling
 * Modules & Packages
 
