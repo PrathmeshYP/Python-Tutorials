@@ -28,6 +28,7 @@ New files will be added **regularly** to cover Python from **basics to advanced 
 | `10_Functions.ipynb`            | Explains function and all the types of functions                                          |
 | `11_Class_and_Object.ipynb`     | Explains class and objects using examples                                                 |
 | `12_Inheritance.ipynb`          | Explains inheritance and types of inheritance with example                                |
+| `13_Polymorphism.ipynb`         | Explains Polymorphism and Encapsulation                                                   |
 
 
 Practice sets are also uploaded on the basis of learning.
