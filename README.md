@@ -37,7 +37,6 @@ Practice sets are also uploaded on the basis of learning.
 
 ## 🚀 Upcoming Topics
 
-* Polymorphism and Encapsulation
 * Exception Handling
 * Modules & Packages
 
