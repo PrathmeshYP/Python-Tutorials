@@ -30,6 +30,7 @@ New files will be added **regularly** to cover Python from **basics to advanced 
 | `12_Inheritance.ipynb`          | Explains inheritance and types of inheritance with example                                |
 | `13_Polymorphism.ipynb`         | Explains Polymorphism and Encapsulation with methods                                      |
 | `14_Abstraction.ipynb`          | Explains Abstraction with examples                                                        |
+| `15_Pandas.ipynb`               | Explains Pandas and Fuctions of data cleaning                                             |
 
 
 
