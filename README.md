@@ -31,6 +31,7 @@ New files will be added **regularly** to cover Python from **basics to advanced 
 | `13_Polymorphism.ipynb`         | Explains Polymorphism and Encapsulation with methods                                      |
 | `14_Abstraction.ipynb`          | Explains Abstraction with examples                                                        |
 | `15_Pandas.ipynb`               | Explains Pandas and Fuctions of data cleaning                                             |
+| `16_Numpy.ipynb`                | Explains Numpy and methods of numpy                                                       |
 
 
 
