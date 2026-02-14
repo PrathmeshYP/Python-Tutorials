@@ -41,7 +41,6 @@ Practice sets are also uploaded on the basis of learning.
 
 ## 🚀 Upcoming Topics
 
-* Exception Handling
 * Modules & Packages
 
 📌 *New notebooks will be added daily.*
