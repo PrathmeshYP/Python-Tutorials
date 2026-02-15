@@ -39,14 +39,6 @@ Practice sets are also uploaded on the basis of learning.
 
 ---
 
-## 🚀 Upcoming Topics
-
-* Modules & Packages
-
-📌 *New notebooks will be added daily.*
-
----
-
 ## 🛠 Requirements
 
 To run the notebooks, make sure you have:
