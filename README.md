@@ -87,7 +87,7 @@ If you find this repository helpful, please **star ⭐ the repo** to support the
 
 ### 👨‍💻 Author
 
-**Prathmesh Yadav Patil**
+**Prathmesh YadavPatil**
 
 Python Learner | Developer | Tech Enthusiast
 
