@@ -32,7 +32,7 @@ New files will be added **regularly** to cover Python from **basics to advanced 
 | `14_Abstraction.ipynb`          | Explains Abstraction with examples                                                        |
 | `15_Pandas.ipynb`               | Explains Pandas and Fuctions of data cleaning                                             |
 | `16_Numpy.ipynb`                | Explains Numpy and methods of numpy                                                       |
-
+| `17_Matplotlib.ipynb`           | Explains Matplotlib and methos of Matplotlib                                              |
 
 
 Practice sets are also uploaded on the basis of learning.
