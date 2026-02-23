@@ -33,6 +33,7 @@ This repository contains **daily Python practice notebooks**, where each noteboo
 | `15_Pandas.ipynb`               | Explains Pandas and Fuctions of data cleaning                                             |
 | `16_Numpy.ipynb`                | Explains Numpy and methods of numpy                                                       |
 | `17_Matplotlib.ipynb`           | Explains Matplotlib and methos of Matplotlib to plot different type of plots              |
+| `18_Seaborn.ipynb`              | Explains Seaborn and methos of Seaborn to design the different types of plots             |
 
 
 Practice sets are also uploaded on the basis of learning.
