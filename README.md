@@ -1,6 +1,6 @@
 # 🐍 Python Tutorials
 
-Welcome to **Python Tutorials** — a growing collection of **Python concepts explained through Jupyter Notebook (`.ipynb`) files**.
+Welcome to **Python Tutorials** — a growing collection of **Python concepts explained through Jupyter Notebook files**.
 This repository is designed for **beginners and learners** who want to understand Python step by step with clear examples.
 
 ---
