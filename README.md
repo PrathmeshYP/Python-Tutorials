@@ -37,6 +37,7 @@ This repository contains **daily Python practice notebooks**, where each noteboo
 
 
 Practice sets are also uploaded on the basis of learning.
+Extra practice sets are uploaded for the libraries.
 
 ---
 
