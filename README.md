@@ -7,7 +7,7 @@ This repository is designed for **beginners and learners** who want to understan
 
 ## 📘 About This Repository
 
-This repository contains **daily Python practice notebooks**, where each notebook focuses on a **specific Python concept**.
+This repository contains **Daily Python practice notebooks**, where each notebook focuses on a **specific Python concept**.
 
 
 ---
