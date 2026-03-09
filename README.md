@@ -64,6 +64,7 @@ The goal of this repository is to:
 * Build **strong Python fundamentals**
 * Provide **easy-to-understand examples**
 * Help learners practice Python **daily**
+* Encourage learners to **code efficiently**
 
 ---
 
