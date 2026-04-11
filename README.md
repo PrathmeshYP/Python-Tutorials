@@ -85,7 +85,7 @@ If you find this repository helpful, please **star ⭐ the repo** to support the
 
 **Prathmesh YadavPatil**
 
-Python Learner | Developer | Tech Enthusiast
+Python Learner | Developer
 
 ---
 
